@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/raghava/Desktop/defense-communication/dependencies/javafx-sdk-20.0.1/**/*.jar"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "_1_client",
+            "request": "launch",
+            "mainClass": "client._1_client",
+            "projectName": "code_4532fa7a",
+            "vmArgs": "--module-path /Users/raghava/Desktop/defense-communication/dependencies/javafx-sdk-20.0.1/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "_0_server",
+            "request": "launch",
+            "mainClass": "server._0_server",
+            "projectName": "code_4532fa7a"
+        }
+    ]
+}
